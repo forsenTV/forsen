@@ -54,7 +54,7 @@ Instructions for forsen Bajs
 Boomers may communicate in this active forsen facebook group, called [Forsen International Community, its id is forsenlol](https://www.facebook.com/groups/forsenlol).
 
 ## Naruto Fanfic Forums:
-- Head to the forum fanverse, originall named NarutoForums. Find user forsen, and enter his fanfic thread. https://www.fanverse.org/threads/my-fanfic-not-like-others.1243165/
+- Head to the forum fanverse, originall named NarutoForums. Find [user forsen](https://www.fanverse.org/members/forsen.276659/), and enter his fanfic thread.
 
 ## TikTok:
 - Zoomers may communivate. Avoid at all costs, should be the last resort in any case. Go to the account [forsen](https://www.tiktok.com/@forsen?) and discuss plans in newest video.
