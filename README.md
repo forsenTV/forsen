@@ -46,6 +46,9 @@ Instructions for forsen Bajs
 ## Imgur:
 - WARNING monkaE ! Go the account forsen imgur.com/user/forsen, go to his comments, enter the [imgur he commented](https://imgur.com/user/forsen/comments). Sort by new, you may now discuss in that imgur's comments.
 
+## Grindr:
+- Add forsen to your interests. Very quickly bajs will find you and get in touch. Inspections may be required.
+
 ## Instagram:
 - [Peppah's Instagram](https://www.instagram.com/commonpepper/). Communicate in the latest post.
 - In case Peppah's instagram is deleted. Search for [#forsen tag](https://www.instagram.com/explore/tags/forsen/), in top posts you should be able to see a horsen picture! Communicate there. In case the horsen post does not appear anymore in the top posts, communicate in the first top post.
