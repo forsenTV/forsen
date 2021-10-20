@@ -3,7 +3,9 @@ Instructions for forsen Bajs
 
 # GitHub:
 - This is the GitHub repository and will be the wiki of all instructions. In this README.md will summarize all the current ways to find, meet, contact, signal, communicate with bajs. Search for the user 'forsenTV' and his repository 'forsen'. Under 'Discussions', you are welcome to suggest new ways.
-- I have opened a Forsen Refugees Discord. In times of crisis, we will communicate there. No weebs. No rules<sup>to a reasonable extent</sup>.
+
+# Forsen Refugees Discord
+- I have opened a [Forsen Refugees Discord](https://discord.com/invite/6CHBEYG8Qu). In times of crisis, we will communicate there. No weebs. No rules<sup>to a reasonable extent</sup>.
 
 ## Telegram: 
 - There wasn't a convenient group on telegram and certain keywords were taken. I have created [t.me/forsenlol](t.me/forsenlol).
