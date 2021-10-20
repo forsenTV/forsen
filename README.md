@@ -9,6 +9,7 @@ Instructions for forsen Bajs
 
 ## Morse Code:
 - For bajs who understand the Morse communique, head to https://www.halb.it/morsecode/?ch=1 This is an online morse code room, you may communicate there.
+- It's [open source too](https://github.com/robalb/morsechat) so any dev bajs who would want to work together to create something for bajs with Morse, discuss it in 'Discussions'.
 
 ## Telegram: 
 - There wasn't a convenient group on telegram and certain keywords were taken. I have created [t.me/forsenlol](t.me/forsenlol).
