@@ -1,6 +1,7 @@
 # forsen
 - Instructions for forsen Bajs.
 - If you have suggestions for more places, share it.
+- https://github.com/forsenTV/forsen/discussions
 
 # GitHub:
 - This is the GitHub repository and will be the wiki of all instructions. In this README.md will summarize all the current ways to find, meet, contact, signal, communicate with bajs. Search for the user 'forsenTV' and his repository 'forsen'. Under 'Discussions', you are welcome to suggest new ways.
