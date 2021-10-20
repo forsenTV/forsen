@@ -7,6 +7,7 @@
 
 # Forsen Refugees Discord
 - I have opened a [Forsen Refugees Discord](https://discord.com/invite/6CHBEYG8Qu). In times of crisis, we will communicate there. No weebs. No rules<sup>to a reasonable extent</sup>.
+- You may invite bajs with [discord.me/forsen](https://discord.me/forsen).
 
 ## Morse Code:
 - For bajs who understand the Morse communique, head to https://www.halb.it/morsecode/?ch=1 This is an online morse code room, you may communicate there.
