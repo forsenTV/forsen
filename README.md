@@ -7,6 +7,9 @@ Instructions for forsen Bajs
 # Forsen Refugees Discord
 - I have opened a [Forsen Refugees Discord](https://discord.com/invite/6CHBEYG8Qu). In times of crisis, we will communicate there. No weebs. No rules<sup>to a reasonable extent</sup>.
 
+## Morse Code:
+- For bajs who understand the Morse communique, head to https://www.halb.it/morsecode/?ch=1 This is an online morse code room, you may communicate there.
+
 ## Telegram: 
 - There wasn't a convenient group on telegram and certain keywords were taken. I have created [t.me/forsenlol](t.me/forsenlol).
 
@@ -42,9 +45,6 @@ Instructions for forsen Bajs
     - **Digital:** There is a leather club nearby. Post a review to communicate. Keep in mind there are no replies/comments for reviews.
     - **Physical coordinates:** **Long=59.766°N Lat=15.550°E**. In case of an emergency, apocalypse, alien invasion, etc. We would all meet there and plan accordingly the next steps.
       - For rich bajs: You may buy land nearby in these coordinates, build a club, place with beds to sleep. Basically a place to live for homeless bajs. If you bought land nearby the coordinates, inform us. We may hold yearly conventions there, after the land is bought and built on.
-
-## Morse Code:
-- For bajs who understand the Morse communique, head to https://www.halb.it/morsecode/?ch=1 This is an online morse code room, you may communicate there.
 
 ## Imgur:
 - WARNING monkaE ! Go the account forsen imgur.com/user/forsen, go to his comments, enter the [imgur he commented](https://imgur.com/user/forsen/comments). Sort by new, you may now discuss in that imgur's comments.
