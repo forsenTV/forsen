@@ -10,6 +10,10 @@
 - I have opened a [Forsen Refugees Discord](https://discord.com/invite/6CHBEYG8Qu). In times of crisis, we will communicate there. No weebs. No rules<sup>to a reasonable extent</sup>.
 - You may invite bajs with [discord.me/forsen](https://discord.me/forsen).
 
+# Reddit
+- ![monkaLaugh](https://cdn.betterttv.net/emote/610841f22d1eba5400d3024e/1x)
+- Just so there would be an alternative for r/forsen if anything happens to it, I have opened [r/forsenRefugees](https://www.reddit.com/r/forsenRefugees/).
+
 ## Morse Code:
 - For bajs who understand the Morse communique, head to https://www.halb.it/morsecode/?ch=1 This is an online morse code room, you may communicate there.
 - It's [open source too](https://github.com/robalb/morsechat) so any dev bajs who would want to work together to create something for bajs with Morse, discuss it in 'Discussions'.
