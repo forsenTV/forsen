@@ -1,5 +1,5 @@
 # forsen
-- Instructions for forsen Bajs.
+- These are instructions for forsen Bajs, in case of an emergency.
 - If you have suggestions for more places, share it.
 - https://github.com/forsenTV/forsen/discussions
 
