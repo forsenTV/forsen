@@ -80,6 +80,12 @@ Boomers may communicate in this active forsen facebook group, called [Forsen Int
 ## Video Games:
 - In all possible games where you can interact with other people. Always look for forsen keywords, in guilds, usernames, chat, etc.
 - If voice chat is enabled, at all time, broadcast signals that bajs will understand.
+### World of Warcraft
+- Every WoW version since release (incl. private servers and Classic) supports custom chatrooms which are server and faction wide. Just type /join <channelname> (like /join forsenboys) and you can join an already existing channel or create a new one if none exists. You can also password protect the chatroom to keep out Normandy (treehunter LULE). Check [WoWpedia](https://wowpedia.fandom.com/wiki/Chat) for the full lisk of chatroom commands
+- WoW also supports faction-specific, region wide communities (retail only) you can use to chat and organize PvE and PvP groups
+- Battle.net supports region wide, game agnostic groups. You only need a bnet account to join.
+### RIFT
+- forsenDED game, but supports chat channels just like W OMEGALUL W [Fully list of chat commands](https://telarapedia.fandom.com/wiki/Commands)
 
 ## WeChat:
 - Best option out there! I advise you to choose and use only WeChat!
